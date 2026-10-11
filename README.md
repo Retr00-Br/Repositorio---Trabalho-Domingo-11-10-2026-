@@ -1,4 +1,4 @@
-# Repositorio---Trabalho-Domingo-11-09-2026-
+# Repositório Trabalho-Domingo-11-09-2026 
 
 Esse repositório tem como finalidade mostrar o desenvolvimento das tarefas à serem realizadas no domingo (dia 11/10/2026)
 
