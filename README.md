@@ -19,6 +19,14 @@ Termino da segunda sprint, tornando o projeto com dados brutos e tratados, já p
 - Google Looker Studio (BI)
 - Qubex (Extração dos dados brutos)
 
-At.te 
 
-Pedro Barbosa de Andrade
+---
+
+## O que foi realizado de fato?
+
+### Limpeza sistêmica
+- Por ter grandes volumes dados (Sendo mais de 6000 registros de dados) foi realizada uma limpeza de dados somente no 2º Semestre de 2026 cujo continua a limpeza, pois novos dados terão que ser editados para a criação dos KPIs corretos do BI
+- Preenchimento dos campos de romaneios pendentes, além de sinalizar notas que não possuem romaneios, porém foram entregues para o cliente
+
+### Andamento da 2º Sprint
+Foi realizado um segundo campo em nosso BI, cujo ficou destinado a taxa de faturamento X cancelamento das notas fiscais, outros campos como de separação, frete e entregas, faturamento por dia, reentrega somente serão entregues após criação de dados com base em nossos sistemas, pois a falta de alguns campos acaba implicando no andamento dos KPIs, o BI pode ser acessado através do link: https://datastudio.google.com/reporting/6fd209b6-d8a6-48f3-8414-18cbe1b95881
